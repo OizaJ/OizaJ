@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OizaJ
 - 👀 I’m interested in the world of tech
-- 🌱 I’m currently learning Python
+- 🌱 About to embark on the software engineering journey
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - oiza.suleiman@yahoo.com
 
